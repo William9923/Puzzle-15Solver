@@ -1,0 +1,3 @@
+language = "python3"
+
+run = "python -u main.py ./testcase/testcase1.txt"
